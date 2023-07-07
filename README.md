@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Roninzo
-- 🌱 I’m currently learning Golang.
 
 <!---
 - 👀 I’m interested in ...
